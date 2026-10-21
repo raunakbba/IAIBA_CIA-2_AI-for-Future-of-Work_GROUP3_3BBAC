@@ -1,0 +1,301 @@
+Employee_ID,Experience_Band,Years_Experience,Role_Family,Gender,Basic_AI_Training_Done,Advanced_AI_Training_Done,Training_Hours_12M,Certifications_Count,Skill_Match_To_Demand_Pct,Bench_Days_12M,Billable_Utilisation_Pct,Performance_Rating_1to5,Employment_Outcome,Redeployment_Attempts,Redeployed_Successfully
+E0001,Mid (4-12 yrs),9,Data / AI Engineer,Male,1,0,32,2,76,43,87.9,3.7,Retained,1,1
+E0002,Senior (13+ yrs),17,Infrastructure Support,Male,1,1,71,4,58,66,81.1,3.9,Retained,1,0
+E0003,Entry (0-3 yrs),1,Software Developer,Female,1,0,47,2,57,61,91.1,2.9,Voluntary Exit,1,0
+E0004,Mid (4-12 yrs),6,Infrastructure Support,Female,1,0,33,0,57,18,89.1,3.0,Retained,0,
+E0005,Entry (0-3 yrs),3,Infrastructure Support,Male,1,0,42,1,48,16,100.0,3.9,Retained,0,
+E0006,Mid (4-12 yrs),8,Cloud / DevOps Engineer,Female,1,1,57,3,77,16,98.6,4.6,Voluntary Exit,0,
+E0007,Entry (0-3 yrs),2,Software Tester,Male,0,0,9,0,49,12,93.2,4.2,Voluntary Exit,0,
+E0008,Entry (0-3 yrs),2,Software Tester,Female,1,0,48,0,53,0,93.8,3.3,Retained,0,
+E0009,Mid (4-12 yrs),9,Cloud / DevOps Engineer,Female,1,0,46,2,71,10,95.3,2.9,Retained,0,
+E0010,Senior (13+ yrs),13,Cloud / DevOps Engineer,Female,1,0,4,4,79,38,84.5,3.5,Retained,5,1
+E0011,Mid (4-12 yrs),12,Data / AI Engineer,Male,1,0,37,0,50,49,84.4,2.0,Voluntary Exit,1,0
+E0012,Mid (4-12 yrs),7,Software Developer,Female,1,0,16,1,70,28,92.6,3.9,Retained,0,
+E0013,Entry (0-3 yrs),2,Software Developer,Male,1,0,25,2,66,49,89.7,2.3,Retained,2,1
+E0014,Mid (4-12 yrs),4,Project / Program Manager,Male,1,0,14,0,50,84,78.4,3.6,Retained,2,1
+E0015,Entry (0-3 yrs),3,Software Developer,Male,1,0,32,1,71,24,89.3,2.7,Voluntary Exit,0,
+E0016,Senior (13+ yrs),15,Software Developer,Male,1,0,42,2,54,61,85.5,3.5,Retained,2,0
+E0017,Entry (0-3 yrs),3,Software Developer,Male,0,0,21,3,56,79,80.9,2.6,Voluntary Exit,3,1
+E0018,Entry (0-3 yrs),3,Software Developer,Female,1,0,52,2,76,6,97.3,3.3,Retained,0,
+E0019,Senior (13+ yrs),23,Software Developer,Female,1,0,45,3,59,50,97.4,3.9,Retained,4,1
+E0020,Mid (4-12 yrs),4,Infrastructure Support,Male,1,0,1,3,59,39,76.0,4.6,Retained,3,1
+E0021,Senior (13+ yrs),18,Business Analyst,Male,1,0,43,1,38,54,86.6,2.3,Voluntary Exit,2,0
+E0022,Mid (4-12 yrs),10,Data / AI Engineer,Female,1,1,58,3,90,34,85.5,2.8,Retained,2,1
+E0023,Mid (4-12 yrs),5,Software Tester,Male,1,0,26,1,37,3,99.1,2.6,Retained,0,
+E0024,Mid (4-12 yrs),8,Software Developer,Male,1,0,38,1,53,31,84.8,1.0,Retained,2,1
+E0025,Mid (4-12 yrs),8,Data / AI Engineer,Male,1,0,67,1,53,4,93.3,1.9,Retained,0,
+E0026,Senior (13+ yrs),15,Cloud / DevOps Engineer,Male,1,1,69,3,66,6,97.3,4.2,Retained,0,
+E0027,Senior (13+ yrs),22,Software Developer,Male,1,0,28,3,60,21,90.4,2.1,Retained,0,
+E0028,Mid (4-12 yrs),4,Cloud / DevOps Engineer,Female,1,0,64,1,51,51,87.3,3.3,Retained,3,1
+E0029,Senior (13+ yrs),24,Cloud / DevOps Engineer,Female,1,1,56,3,64,59,83.7,3.8,Retained,3,1
+E0030,Entry (0-3 yrs),2,Software Developer,Male,1,1,67,2,87,29,88.3,4.1,Retained,0,
+E0031,Senior (13+ yrs),14,Project / Program Manager,Female,1,0,59,0,42,45,89.1,3.7,Retained,1,1
+E0032,Entry (0-3 yrs),1,Data / AI Engineer,Female,1,0,29,1,71,5,93.1,4.5,Retained,0,
+E0033,Senior (13+ yrs),21,Project / Program Manager,Male,0,0,22,1,34,109,72.5,1.8,Released (Skill Mismatch),1,0
+E0034,Mid (4-12 yrs),6,Project / Program Manager,Female,1,0,51,1,45,23,96.4,3.6,Retained,0,
+E0035,Senior (13+ yrs),20,Infrastructure Support,Female,1,0,30,1,38,50,83.5,4.2,Retained,5,1
+E0036,Mid (4-12 yrs),7,Cloud / DevOps Engineer,Male,1,0,28,1,75,22,83.4,4.5,Retained,0,
+E0037,Senior (13+ yrs),22,Data / AI Engineer,Female,1,1,59,4,90,5,91.6,2.9,Retained,0,
+E0038,Mid (4-12 yrs),11,Cloud / DevOps Engineer,Female,1,1,34,6,93,11,97.1,4.0,Retained,0,
+E0039,Senior (13+ yrs),24,Project / Program Manager,Male,1,0,17,2,56,49,85.5,2.7,Retained,1,0
+E0040,Entry (0-3 yrs),1,Data / AI Engineer,Male,1,0,20,2,63,11,99.4,2.9,Retained,0,
+E0041,Mid (4-12 yrs),5,Software Tester,Male,1,0,32,3,61,9,87.3,3.8,Retained,0,
+E0042,Entry (0-3 yrs),3,Software Developer,Female,1,0,26,1,54,40,87.8,3.5,Retained,1,1
+E0043,Mid (4-12 yrs),9,Data / AI Engineer,Female,1,1,63,5,90,10,94.0,3.4,Retained,0,
+E0044,Entry (0-3 yrs),1,Infrastructure Support,Male,1,0,15,4,54,69,73.5,3.4,Retained,3,1
+E0045,Senior (13+ yrs),13,Project / Program Manager,Male,1,0,30,2,49,40,94.4,4.3,Retained,2,1
+E0046,Entry (0-3 yrs),3,Software Developer,Male,1,0,20,0,68,8,91.1,4.2,Voluntary Exit,0,
+E0047,Mid (4-12 yrs),7,Infrastructure Support,Female,0,0,27,3,45,41,79.2,3.4,Retained,3,0
+E0048,Mid (4-12 yrs),4,Data / AI Engineer,Male,0,0,45,3,64,47,83.1,3.4,Voluntary Exit,1,1
+E0049,Entry (0-3 yrs),3,Software Developer,Female,1,0,26,1,43,46,85.6,2.0,Released (Skill Mismatch),2,0
+E0050,Mid (4-12 yrs),10,Software Developer,Female,1,0,48,0,65,24,97.4,3.0,Retained,0,
+E0051,Entry (0-3 yrs),2,Software Tester,Male,1,0,47,2,42,30,88.2,4.0,Retained,0,
+E0052,Entry (0-3 yrs),3,Software Developer,Female,1,0,60,3,67,25,94.8,2.3,Retained,0,
+E0053,Entry (0-3 yrs),1,Software Developer,Male,1,0,45,0,71,2,89.3,2.3,Retained,0,
+E0054,Entry (0-3 yrs),0,Business Analyst,Male,1,0,28,1,51,2,90.9,3.7,Retained,0,
+E0055,Mid (4-12 yrs),9,Software Developer,Male,1,0,34,2,70,4,89.0,4.2,Retained,0,
+E0056,Mid (4-12 yrs),10,Software Developer,Male,1,0,45,2,51,18,96.7,2.4,Retained,0,
+E0057,Senior (13+ yrs),19,Project / Program Manager,Male,1,0,30,2,38,43,91.7,3.9,Released (Skill Mismatch),1,0
+E0058,Entry (0-3 yrs),3,Software Tester,Male,1,0,30,0,47,47,88.1,3.2,Retained,2,1
+E0059,Mid (4-12 yrs),10,Project / Program Manager,Male,1,0,21,0,51,27,88.1,2.6,Retained,0,
+E0060,Mid (4-12 yrs),7,Infrastructure Support,Male,1,0,35,1,47,32,91.6,2.9,Retained,3,0
+E0061,Entry (0-3 yrs),1,Software Developer,Male,1,0,35,1,58,51,90.1,4.4,Retained,2,0
+E0062,Entry (0-3 yrs),2,Software Developer,Male,1,0,30,1,78,19,99.7,4.0,Retained,0,
+E0063,Mid (4-12 yrs),7,Infrastructure Support,Female,1,0,40,0,68,27,80.9,2.8,Voluntary Exit,0,
+E0064,Entry (0-3 yrs),1,Software Developer,Male,1,0,40,1,54,77,85.5,1.7,Voluntary Exit,2,1
+E0065,Senior (13+ yrs),21,Data / AI Engineer,Female,1,0,46,3,71,8,94.9,3.9,Retained,0,
+E0066,Senior (13+ yrs),24,Project / Program Manager,Male,1,0,39,1,42,107,73.9,3.1,Released (Skill Mismatch),2,0
+E0067,Mid (4-12 yrs),11,Infrastructure Support,Male,1,0,39,1,59,28,91.0,4.0,Retained,0,
+E0068,Senior (13+ yrs),25,Software Tester,Female,1,0,32,3,57,8,83.4,3.3,Retained,0,
+E0069,Entry (0-3 yrs),0,Software Developer,Male,1,1,52,2,70,34,82.0,3.9,Retained,2,1
+E0070,Mid (4-12 yrs),6,Project / Program Manager,Female,1,0,27,3,47,49,82.7,3.3,Retained,1,1
+E0071,Entry (0-3 yrs),2,Software Developer,Male,1,0,35,2,62,19,85.5,3.2,Retained,0,
+E0072,Mid (4-12 yrs),12,Business Analyst,Female,1,0,61,1,61,18,93.7,3.8,Retained,0,
+E0073,Senior (13+ yrs),16,Project / Program Manager,Male,1,0,24,1,43,72,87.5,2.9,Released (Skill Mismatch),5,0
+E0074,Mid (4-12 yrs),7,Project / Program Manager,Female,1,0,57,1,46,37,94.6,3.0,Retained,1,0
+E0075,Senior (13+ yrs),24,Business Analyst,Female,1,0,42,2,55,14,98.6,4.2,Retained,0,
+E0076,Senior (13+ yrs),13,Project / Program Manager,Female,1,0,26,0,34,48,77.6,3.3,Released (Skill Mismatch),3,0
+E0077,Entry (0-3 yrs),0,Infrastructure Support,Male,1,1,50,1,56,72,85.4,4.8,Released (Skill Mismatch),2,0
+E0078,Senior (13+ yrs),25,Project / Program Manager,Male,1,0,37,2,47,35,93.6,2.7,Released (Skill Mismatch),2,0
+E0079,Senior (13+ yrs),18,Software Tester,Male,1,1,74,0,47,50,89.7,3.4,Released (Skill Mismatch),4,0
+E0080,Entry (0-3 yrs),2,Cloud / DevOps Engineer,Male,1,0,42,2,71,11,94.9,4.0,Retained,0,
+E0081,Senior (13+ yrs),19,Software Developer,Male,1,0,56,0,47,38,90.2,2.0,Retained,3,0
+E0082,Mid (4-12 yrs),5,Data / AI Engineer,Male,1,0,32,1,62,5,83.9,4.5,Retained,0,
+E0083,Mid (4-12 yrs),6,Software Developer,Female,1,0,27,3,64,81,84.7,3.1,Retained,3,1
+E0084,Mid (4-12 yrs),7,Data / AI Engineer,Male,1,1,70,2,79,11,94.3,3.2,Retained,0,
+E0085,Mid (4-12 yrs),12,Cloud / DevOps Engineer,Female,1,1,68,5,98,13,94.1,4.1,Retained,0,
+E0086,Entry (0-3 yrs),1,Infrastructure Support,Male,1,0,36,2,46,2,95.5,3.6,Retained,0,
+E0087,Mid (4-12 yrs),5,Business Analyst,Male,1,0,58,0,55,54,82.9,3.2,Retained,3,1
+E0088,Senior (13+ yrs),24,Project / Program Manager,Male,1,1,54,2,55,24,89.3,4.4,Retained,0,
+E0089,Entry (0-3 yrs),2,Infrastructure Support,Male,1,0,37,2,68,16,100.0,3.0,Voluntary Exit,0,
+E0090,Entry (0-3 yrs),3,Software Developer,Female,0,0,22,0,64,14,100.0,2.6,Retained,0,
+E0091,Mid (4-12 yrs),4,Project / Program Manager,Female,1,0,66,2,53,32,89.1,3.2,Released (Skill Mismatch),4,0
+E0092,Mid (4-12 yrs),10,Software Tester,Female,1,0,27,2,62,21,85.4,2.9,Retained,0,
+E0093,Mid (4-12 yrs),12,Infrastructure Support,Male,1,0,45,1,53,14,93.0,3.3,Retained,0,
+E0094,Mid (4-12 yrs),8,Project / Program Manager,Male,1,0,31,2,29,31,83.1,3.2,Voluntary Exit,4,1
+E0095,Mid (4-12 yrs),8,Data / AI Engineer,Male,1,1,63,2,87,6,96.1,4.3,Voluntary Exit,0,
+E0096,Entry (0-3 yrs),2,Software Tester,Female,1,0,43,1,60,10,99.9,3.4,Retained,0,
+E0097,Entry (0-3 yrs),1,Data / AI Engineer,Female,1,0,62,1,73,25,85.5,3.2,Retained,0,
+E0098,Mid (4-12 yrs),6,Software Tester,Male,1,0,24,1,43,35,86.0,3.8,Voluntary Exit,2,0
+E0099,Entry (0-3 yrs),3,Cloud / DevOps Engineer,Male,1,0,21,2,81,33,86.8,3.7,Retained,1,1
+E0100,Mid (4-12 yrs),12,Infrastructure Support,Female,1,0,43,1,60,37,90.8,3.1,Voluntary Exit,2,1
+E0101,Mid (4-12 yrs),8,Software Developer,Female,1,0,46,1,60,11,100.0,3.2,Retained,0,
+E0102,Entry (0-3 yrs),3,Infrastructure Support,Male,1,0,29,5,62,41,93.1,2.8,Retained,2,1
+E0103,Entry (0-3 yrs),0,Software Developer,Male,1,0,52,2,48,16,86.9,2.9,Retained,0,
+E0104,Mid (4-12 yrs),12,Infrastructure Support,Female,1,0,52,0,63,54,87.9,4.0,Retained,1,1
+E0105,Senior (13+ yrs),15,Business Analyst,Male,1,0,38,3,63,1,100.0,5.0,Retained,0,
+E0106,Entry (0-3 yrs),0,Software Developer,Male,1,0,25,5,80,14,97.8,4.4,Retained,0,
+E0107,Mid (4-12 yrs),11,Cloud / DevOps Engineer,Male,0,0,23,1,61,39,89.5,3.9,Voluntary Exit,1,0
+E0108,Senior (13+ yrs),25,Project / Program Manager,Male,1,0,21,1,30,80,82.2,4.4,Retained,2,1
+E0109,Senior (13+ yrs),18,Software Developer,Male,1,0,46,1,52,70,81.0,2.6,Retained,3,0
+E0110,Mid (4-12 yrs),9,Software Developer,Male,1,0,38,0,62,58,88.7,3.3,Retained,2,1
+E0111,Senior (13+ yrs),24,Business Analyst,Female,1,0,39,0,68,5,100.0,3.3,Retained,0,
+E0112,Entry (0-3 yrs),3,Project / Program Manager,Female,1,0,44,2,56,29,87.1,2.6,Voluntary Exit,0,
+E0113,Senior (13+ yrs),21,Project / Program Manager,Female,0,0,19,0,34,51,78.6,4.4,Released (Skill Mismatch),4,0
+E0114,Mid (4-12 yrs),9,Software Tester,Female,1,0,36,2,45,3,91.6,2.7,Voluntary Exit,0,
+E0115,Senior (13+ yrs),19,Infrastructure Support,Female,1,0,23,2,50,65,84.7,2.7,Released (Skill Mismatch),1,0
+E0116,Entry (0-3 yrs),0,Infrastructure Support,Female,1,0,35,0,57,54,88.0,3.3,Retained,2,1
+E0117,Senior (13+ yrs),18,Data / AI Engineer,Female,1,0,41,1,68,21,85.5,3.2,Retained,0,
+E0118,Entry (0-3 yrs),0,Infrastructure Support,Female,1,0,36,1,58,30,86.0,3.1,Retained,0,
+E0119,Mid (4-12 yrs),11,Business Analyst,Male,1,0,50,1,66,9,94.5,2.7,Voluntary Exit,0,
+E0120,Mid (4-12 yrs),7,Cloud / DevOps Engineer,Female,1,1,58,1,89,14,89.7,4.6,Retained,0,
+E0121,Mid (4-12 yrs),11,Software Developer,Male,1,0,30,1,51,67,79.6,3.4,Retained,2,0
+E0122,Senior (13+ yrs),18,Project / Program Manager,Male,1,0,18,2,52,88,75.6,3.1,Retained,4,0
+E0123,Mid (4-12 yrs),6,Cloud / DevOps Engineer,Male,1,1,45,1,86,17,90.5,3.3,Retained,0,
+E0124,Senior (13+ yrs),24,Cloud / DevOps Engineer,Male,1,0,26,3,79,52,84.0,4.4,Retained,1,1
+E0125,Senior (13+ yrs),24,Software Developer,Female,0,0,5,2,48,55,85.2,4.0,Retained,3,0
+E0126,Entry (0-3 yrs),3,Software Developer,Male,0,0,23,1,63,2,97.0,4.6,Retained,0,
+E0127,Senior (13+ yrs),15,Software Developer,Male,1,0,59,0,43,11,94.3,2.0,Retained,0,
+E0128,Entry (0-3 yrs),3,Software Developer,Male,1,0,38,0,58,39,86.1,2.9,Retained,2,1
+E0129,Entry (0-3 yrs),0,Data / AI Engineer,Male,1,0,27,0,62,5,99.8,3.5,Retained,0,
+E0130,Mid (4-12 yrs),4,Project / Program Manager,Female,1,1,80,1,63,19,93.7,3.1,Retained,0,
+E0131,Mid (4-12 yrs),6,Software Developer,Male,1,1,65,2,82,3,94.8,3.0,Retained,0,
+E0132,Senior (13+ yrs),23,Data / AI Engineer,Male,1,0,20,1,59,64,77.5,2.3,Retained,2,1
+E0133,Mid (4-12 yrs),4,Software Developer,Male,1,1,73,3,73,26,81.7,4.1,Retained,0,
+E0134,Entry (0-3 yrs),0,Business Analyst,Male,1,0,46,1,56,20,93.7,3.6,Retained,0,
+E0135,Mid (4-12 yrs),9,Cloud / DevOps Engineer,Male,0,0,15,0,68,54,88.4,3.2,Retained,2,1
+E0136,Entry (0-3 yrs),3,Business Analyst,Male,1,0,30,3,50,41,88.9,3.6,Retained,4,0
+E0137,Senior (13+ yrs),21,Infrastructure Support,Male,0,0,33,1,36,9,95.6,3.4,Retained,0,
+E0138,Entry (0-3 yrs),0,Software Developer,Male,1,1,66,5,76,67,86.0,2.6,Retained,4,1
+E0139,Mid (4-12 yrs),4,Software Developer,Male,1,0,58,2,71,38,90.4,3.7,Retained,2,1
+E0140,Senior (13+ yrs),18,Business Analyst,Female,1,0,40,1,68,0,100.0,4.4,Retained,0,
+E0141,Senior (13+ yrs),25,Project / Program Manager,Male,0,0,20,0,37,17,83.6,3.9,Retained,0,
+E0142,Mid (4-12 yrs),6,Project / Program Manager,Male,1,1,61,3,65,41,87.0,2.7,Retained,1,1
+E0143,Mid (4-12 yrs),9,Data / AI Engineer,Female,1,0,47,1,72,22,89.3,3.7,Voluntary Exit,0,
+E0144,Entry (0-3 yrs),3,Software Developer,Male,1,0,29,1,51,48,88.8,3.2,Retained,3,1
+E0145,Senior (13+ yrs),22,Project / Program Manager,Male,1,0,47,1,46,84,93.3,3.0,Voluntary Exit,2,1
+E0146,Mid (4-12 yrs),5,Software Developer,Male,1,0,43,0,66,78,76.6,3.9,Retained,3,1
+E0147,Senior (13+ yrs),23,Project / Program Manager,Female,1,0,17,1,39,115,68.0,2.8,Retained,2,0
+E0148,Senior (13+ yrs),24,Cloud / DevOps Engineer,Male,0,0,31,1,43,24,79.8,3.3,Retained,0,
+E0149,Mid (4-12 yrs),6,Data / AI Engineer,Female,1,0,29,3,74,19,94.8,1.7,Retained,0,
+E0150,Senior (13+ yrs),14,Cloud / DevOps Engineer,Male,1,0,32,2,54,37,85.5,2.8,Retained,5,1
+E0151,Mid (4-12 yrs),7,Software Developer,Male,1,0,53,0,62,9,100.0,2.5,Retained,0,
+E0152,Mid (4-12 yrs),12,Project / Program Manager,Male,1,0,39,0,53,32,90.2,3.7,Retained,4,1
+E0153,Mid (4-12 yrs),8,Software Developer,Female,1,0,56,1,71,1,98.2,3.5,Retained,0,
+E0154,Mid (4-12 yrs),4,Data / AI Engineer,Male,1,0,47,1,65,52,92.5,3.7,Voluntary Exit,1,1
+E0155,Mid (4-12 yrs),8,Software Developer,Male,1,0,36,2,54,19,83.8,2.5,Retained,0,
+E0156,Mid (4-12 yrs),5,Infrastructure Support,Male,1,0,14,0,49,13,91.8,3.3,Retained,0,
+E0157,Entry (0-3 yrs),2,Software Tester,Female,1,0,36,2,42,51,86.8,3.9,Voluntary Exit,5,1
+E0158,Mid (4-12 yrs),12,Software Developer,Female,1,1,61,1,73,6,95.4,3.1,Retained,0,
+E0159,Mid (4-12 yrs),10,Software Developer,Female,1,1,62,2,67,44,91.8,4.3,Voluntary Exit,2,1
+E0160,Entry (0-3 yrs),3,Data / AI Engineer,Male,1,0,42,4,88,4,97.8,3.4,Retained,0,
+E0161,Senior (13+ yrs),25,Software Tester,Male,1,0,35,1,54,26,93.5,3.7,Voluntary Exit,0,
+E0162,Entry (0-3 yrs),0,Cloud / DevOps Engineer,Male,1,1,38,1,87,3,95.7,3.7,Voluntary Exit,0,
+E0163,Senior (13+ yrs),21,Business Analyst,Male,1,0,26,2,58,67,74.6,3.8,Released (Skill Mismatch),1,0
+E0164,Mid (4-12 yrs),7,Software Developer,Female,1,0,29,1,60,44,79.3,4.2,Retained,1,1
+E0165,Mid (4-12 yrs),12,Project / Program Manager,Male,1,0,22,1,46,10,93.5,3.9,Voluntary Exit,0,
+E0166,Mid (4-12 yrs),9,Cloud / DevOps Engineer,Female,1,1,68,1,82,23,92.6,4.6,Retained,0,
+E0167,Entry (0-3 yrs),0,Software Developer,Male,1,0,15,1,66,8,96.5,3.0,Retained,0,
+E0168,Mid (4-12 yrs),7,Data / AI Engineer,Female,1,0,27,4,68,32,85.6,3.8,Retained,2,1
+E0169,Mid (4-12 yrs),10,Software Developer,Female,1,0,41,2,61,26,86.6,3.8,Retained,0,
+E0170,Senior (13+ yrs),13,Software Developer,Female,1,0,36,3,64,79,82.0,2.4,Retained,1,0
+E0171,Entry (0-3 yrs),1,Data / AI Engineer,Male,1,0,31,0,82,12,96.8,3.7,Retained,0,
+E0172,Senior (13+ yrs),23,Software Developer,Male,1,0,33,3,67,33,95.5,4.3,Retained,4,1
+E0173,Senior (13+ yrs),18,Infrastructure Support,Male,1,0,49,3,56,29,96.7,4.1,Retained,0,
+E0174,Mid (4-12 yrs),5,Software Tester,Male,1,0,57,0,54,37,97.4,4.0,Retained,5,0
+E0175,Mid (4-12 yrs),11,Infrastructure Support,Female,1,0,51,0,60,39,90.5,3.3,Retained,4,1
+E0176,Mid (4-12 yrs),7,Business Analyst,Female,1,0,41,2,57,10,94.0,2.9,Retained,0,
+E0177,Senior (13+ yrs),22,Data / AI Engineer,Male,1,0,35,0,54,77,72.1,2.3,Voluntary Exit,3,1
+E0178,Mid (4-12 yrs),11,Infrastructure Support,Male,1,0,54,2,49,58,79.8,2.6,Retained,1,1
+E0179,Senior (13+ yrs),19,Software Developer,Male,1,0,70,1,58,31,86.7,3.8,Released (Skill Mismatch),2,0
+E0180,Senior (13+ yrs),20,Software Developer,Female,1,1,73,0,53,73,80.0,3.1,Retained,3,1
+E0181,Mid (4-12 yrs),9,Software Developer,Male,1,0,31,2,48,11,92.0,3.8,Retained,0,
+E0182,Mid (4-12 yrs),10,Software Developer,Female,1,0,39,2,60,44,79.8,3.1,Retained,1,1
+E0183,Mid (4-12 yrs),8,Infrastructure Support,Female,1,0,46,1,56,13,98.8,2.0,Retained,0,
+E0184,Entry (0-3 yrs),0,Software Developer,Female,1,0,44,2,61,20,85.6,3.2,Retained,0,
+E0185,Entry (0-3 yrs),2,Business Analyst,Male,0,0,33,3,56,56,82.1,1.9,Retained,5,1
+E0186,Mid (4-12 yrs),9,Infrastructure Support,Male,1,0,22,1,36,23,82.2,4.5,Retained,0,
+E0187,Mid (4-12 yrs),5,Software Developer,Male,0,0,24,2,51,18,91.1,4.6,Retained,0,
+E0188,Entry (0-3 yrs),3,Infrastructure Support,Male,1,0,56,0,43,30,91.4,2.5,Voluntary Exit,0,
+E0189,Mid (4-12 yrs),9,Software Developer,Male,1,0,37,3,71,20,88.7,3.6,Retained,0,
+E0190,Entry (0-3 yrs),2,Data / AI Engineer,Male,1,0,39,1,79,9,99.0,3.4,Retained,0,
+E0191,Mid (4-12 yrs),9,Data / AI Engineer,Male,1,0,41,2,67,17,95.4,3.7,Retained,0,
+E0192,Mid (4-12 yrs),5,Data / AI Engineer,Female,1,0,35,3,71,39,86.5,3.3,Retained,3,1
+E0193,Mid (4-12 yrs),6,Business Analyst,Male,1,0,56,2,53,82,75.1,3.2,Voluntary Exit,5,0
+E0194,Senior (13+ yrs),18,Project / Program Manager,Male,1,0,40,0,49,29,86.5,4.4,Retained,0,
+E0195,Entry (0-3 yrs),2,Data / AI Engineer,Male,1,1,76,1,82,26,90.2,2.9,Retained,0,
+E0196,Mid (4-12 yrs),12,Software Developer,Male,1,0,45,2,63,29,85.1,2.5,Retained,0,
+E0197,Mid (4-12 yrs),12,Business Analyst,Male,1,0,24,0,53,40,92.9,3.5,Retained,2,1
+E0198,Mid (4-12 yrs),11,Data / AI Engineer,Female,1,0,71,0,73,35,90.0,4.3,Voluntary Exit,4,1
+E0199,Senior (13+ yrs),24,Business Analyst,Male,1,0,39,3,68,37,84.3,3.8,Retained,1,1
+E0200,Mid (4-12 yrs),8,Business Analyst,Female,1,0,38,0,72,25,88.9,2.2,Retained,0,
+E0201,Mid (4-12 yrs),7,Data / AI Engineer,Female,1,0,58,0,64,11,90.2,3.3,Retained,0,
+E0202,Entry (0-3 yrs),0,Data / AI Engineer,Female,1,0,30,1,89,13,95.2,3.4,Retained,0,
+E0203,Mid (4-12 yrs),7,Infrastructure Support,Female,1,0,35,0,36,35,90.7,3.7,Voluntary Exit,1,0
+E0204,Entry (0-3 yrs),0,Data / AI Engineer,Male,1,0,58,0,64,25,87.5,3.0,Retained,0,
+E0205,Entry (0-3 yrs),1,Software Tester,Female,1,0,30,1,46,8,96.0,3.8,Voluntary Exit,0,
+E0206,Mid (4-12 yrs),6,Cloud / DevOps Engineer,Male,1,0,41,1,64,26,93.4,2.9,Released (Skill Mismatch),0,
+E0207,Mid (4-12 yrs),5,Software Developer,Male,0,0,10,1,62,38,87.4,4.2,Released (Skill Mismatch),1,0
+E0208,Senior (13+ yrs),18,Data / AI Engineer,Male,1,0,6,1,52,73,76.5,3.8,Retained,2,1
+E0209,Mid (4-12 yrs),6,Software Tester,Male,1,0,13,1,67,10,96.4,3.8,Retained,0,
+E0210,Entry (0-3 yrs),0,Data / AI Engineer,Male,1,1,67,1,82,47,85.3,4.5,Retained,1,1
+E0211,Mid (4-12 yrs),10,Software Developer,Male,1,0,57,1,53,41,84.7,3.9,Voluntary Exit,5,0
+E0212,Senior (13+ yrs),24,Project / Program Manager,Female,1,0,29,0,42,65,83.1,3.2,Released (Skill Mismatch),2,0
+E0213,Entry (0-3 yrs),2,Data / AI Engineer,Male,0,0,13,3,54,7,85.4,2.6,Retained,0,
+E0214,Entry (0-3 yrs),0,Software Tester,Male,1,1,62,2,57,54,78.3,3.1,Retained,4,1
+E0215,Entry (0-3 yrs),2,Cloud / DevOps Engineer,Female,1,0,58,1,74,9,90.7,3.8,Retained,0,
+E0216,Senior (13+ yrs),14,Infrastructure Support,Male,1,0,27,2,47,61,82.1,3.5,Voluntary Exit,1,0
+E0217,Mid (4-12 yrs),11,Software Developer,Male,1,0,43,2,53,8,100.0,3.7,Retained,0,
+E0218,Senior (13+ yrs),21,Project / Program Manager,Male,1,0,40,2,46,28,89.0,3.8,Retained,0,
+E0219,Mid (4-12 yrs),8,Business Analyst,Male,1,0,37,2,45,50,85.3,2.6,Retained,2,1
+E0220,Mid (4-12 yrs),9,Project / Program Manager,Male,1,1,78,2,66,20,99.8,4.0,Retained,0,
+E0221,Senior (13+ yrs),17,Software Developer,Male,0,0,36,0,33,17,100.0,2.5,Retained,0,
+E0222,Entry (0-3 yrs),1,Cloud / DevOps Engineer,Female,1,0,59,0,68,20,91.0,3.8,Retained,0,
+E0223,Entry (0-3 yrs),3,Infrastructure Support,Male,1,0,36,0,38,37,92.2,2.9,Retained,2,1
+E0224,Entry (0-3 yrs),0,Software Tester,Male,1,0,29,0,70,5,98.0,4.5,Retained,0,
+E0225,Entry (0-3 yrs),0,Software Tester,Male,1,0,31,4,63,18,87.3,3.7,Retained,0,
+E0226,Senior (13+ yrs),22,Software Tester,Male,1,0,41,1,55,60,74.7,3.1,Retained,1,1
+E0227,Mid (4-12 yrs),5,Infrastructure Support,Female,1,0,39,3,54,18,93.1,3.2,Retained,0,
+E0228,Senior (13+ yrs),17,Software Developer,Male,1,0,15,2,43,25,85.9,3.5,Retained,0,
+E0229,Entry (0-3 yrs),3,Software Tester,Female,1,0,40,1,61,3,96.4,2.9,Retained,0,
+E0230,Mid (4-12 yrs),7,Project / Program Manager,Female,1,1,47,6,65,46,89.5,3.8,Retained,2,1
+E0231,Mid (4-12 yrs),10,Cloud / DevOps Engineer,Female,1,0,45,0,70,60,69.1,4.4,Retained,3,0
+E0232,Entry (0-3 yrs),1,Data / AI Engineer,Male,1,1,60,0,80,15,96.9,4.4,Retained,0,
+E0233,Entry (0-3 yrs),3,Software Developer,Male,1,0,60,0,59,53,84.7,3.7,Retained,2,1
+E0234,Mid (4-12 yrs),6,Infrastructure Support,Female,1,0,36,3,66,10,100.0,4.0,Retained,0,
+E0235,Entry (0-3 yrs),2,Infrastructure Support,Female,0,0,18,1,51,18,95.0,3.1,Retained,0,
+E0236,Entry (0-3 yrs),3,Business Analyst,Female,1,0,42,0,46,68,78.6,2.9,Voluntary Exit,1,1
+E0237,Entry (0-3 yrs),0,Cloud / DevOps Engineer,Female,1,0,35,1,61,42,80.1,2.4,Voluntary Exit,2,1
+E0238,Senior (13+ yrs),20,Cloud / DevOps Engineer,Male,1,0,55,0,65,4,96.2,3.5,Retained,0,
+E0239,Entry (0-3 yrs),0,Software Developer,Male,1,0,52,0,60,3,94.9,3.3,Retained,0,
+E0240,Entry (0-3 yrs),2,Software Tester,Male,1,0,57,2,75,5,88.0,3.3,Retained,0,
+E0241,Mid (4-12 yrs),4,Project / Program Manager,Male,1,1,65,1,66,21,86.6,4.0,Retained,0,
+E0242,Senior (13+ yrs),25,Project / Program Manager,Male,0,0,11,3,49,29,96.6,4.4,Released (Skill Mismatch),0,
+E0243,Entry (0-3 yrs),3,Infrastructure Support,Male,1,0,42,0,65,17,95.4,3.7,Retained,0,
+E0244,Mid (4-12 yrs),8,Data / AI Engineer,Female,1,1,40,4,92,6,91.7,3.6,Retained,0,
+E0245,Entry (0-3 yrs),1,Business Analyst,Female,0,0,0,2,62,12,92.3,4.1,Retained,0,
+E0246,Senior (13+ yrs),18,Project / Program Manager,Female,0,0,19,2,47,57,87.4,3.5,Released (Skill Mismatch),2,0
+E0247,Mid (4-12 yrs),11,Software Developer,Male,0,0,27,0,50,31,91.0,2.9,Retained,5,1
+E0248,Entry (0-3 yrs),3,Software Developer,Male,1,0,51,2,75,10,94.4,3.6,Retained,0,
+E0249,Mid (4-12 yrs),10,Software Tester,Male,1,0,50,0,43,36,95.1,3.3,Retained,5,1
+E0250,Senior (13+ yrs),15,Project / Program Manager,Female,1,0,48,1,51,16,100.0,2.7,Released (Skill Mismatch),0,
+E0251,Mid (4-12 yrs),9,Data / AI Engineer,Female,1,0,31,3,77,22,84.7,3.3,Retained,0,
+E0252,Senior (13+ yrs),17,Project / Program Manager,Male,1,0,26,0,40,87,83.9,2.2,Released (Skill Mismatch),2,0
+E0253,Mid (4-12 yrs),12,Software Tester,Female,1,0,47,0,67,31,86.0,3.1,Retained,2,1
+E0254,Entry (0-3 yrs),2,Software Tester,Male,1,0,39,0,62,21,86.0,3.3,Voluntary Exit,0,
+E0255,Mid (4-12 yrs),10,Project / Program Manager,Male,1,0,49,3,58,33,88.5,2.9,Retained,2,1
+E0256,Entry (0-3 yrs),0,Cloud / DevOps Engineer,Male,1,1,72,2,91,33,99.4,2.4,Retained,2,1
+E0257,Senior (13+ yrs),14,Software Developer,Male,1,0,31,3,63,27,85.3,3.5,Retained,0,
+E0258,Entry (0-3 yrs),3,Business Analyst,Male,1,0,38,1,74,19,92.6,4.1,Retained,0,
+E0259,Senior (13+ yrs),22,Cloud / DevOps Engineer,Female,1,0,59,0,77,1,100.0,2.6,Retained,0,
+E0260,Mid (4-12 yrs),5,Cloud / DevOps Engineer,Male,1,0,25,3,76,64,83.9,4.0,Retained,1,1
+E0261,Senior (13+ yrs),14,Project / Program Manager,Male,0,0,18,0,51,56,77.6,3.4,Retained,2,0
+E0262,Mid (4-12 yrs),11,Software Developer,Female,1,0,52,1,49,32,92.1,3.4,Retained,2,1
+E0263,Mid (4-12 yrs),10,Business Analyst,Male,1,1,64,6,92,0,97.4,5.0,Retained,0,
+E0264,Mid (4-12 yrs),10,Software Developer,Male,1,0,19,3,76,8,90.2,3.8,Retained,0,
+E0265,Senior (13+ yrs),18,Software Developer,Male,1,0,53,0,61,35,89.2,2.8,Released (Skill Mismatch),5,0
+E0266,Mid (4-12 yrs),5,Business Analyst,Male,1,0,27,1,57,10,87.8,3.3,Retained,0,
+E0267,Mid (4-12 yrs),6,Software Developer,Male,1,1,73,2,64,20,94.0,3.2,Retained,0,
+E0268,Entry (0-3 yrs),1,Software Tester,Female,1,0,47,2,59,8,95.1,2.8,Retained,0,
+E0269,Senior (13+ yrs),17,Infrastructure Support,Male,1,0,44,0,56,6,97.6,3.4,Retained,0,
+E0270,Entry (0-3 yrs),3,Data / AI Engineer,Male,1,0,39,2,78,21,88.8,4.7,Retained,0,
+E0271,Mid (4-12 yrs),8,Software Developer,Male,1,0,37,2,59,12,95.8,3.9,Retained,0,
+E0272,Senior (13+ yrs),17,Project / Program Manager,Female,1,0,27,3,65,41,75.1,3.5,Released (Skill Mismatch),4,0
+E0273,Mid (4-12 yrs),8,Cloud / DevOps Engineer,Male,1,1,47,2,81,15,86.1,2.9,Retained,0,
+E0274,Mid (4-12 yrs),10,Cloud / DevOps Engineer,Male,1,0,39,2,70,26,91.7,3.7,Retained,0,
+E0275,Mid (4-12 yrs),5,Cloud / DevOps Engineer,Female,1,0,17,0,60,11,92.8,3.8,Retained,0,
+E0276,Senior (13+ yrs),16,Software Developer,Male,1,0,36,1,55,1,100.0,2.8,Retained,0,
+E0277,Mid (4-12 yrs),8,Software Tester,Male,0,0,27,0,50,29,79.4,3.6,Retained,0,
+E0278,Senior (13+ yrs),19,Software Developer,Female,1,0,14,1,61,29,94.5,3.0,Retained,0,
+E0279,Mid (4-12 yrs),10,Project / Program Manager,Male,1,0,47,3,55,20,94.9,3.0,Retained,0,
+E0280,Mid (4-12 yrs),8,Cloud / DevOps Engineer,Female,1,0,31,0,74,10,93.5,3.0,Retained,0,
+E0281,Entry (0-3 yrs),1,Infrastructure Support,Male,1,0,65,2,48,22,86.2,2.5,Retained,0,
+E0282,Entry (0-3 yrs),2,Data / AI Engineer,Female,1,0,40,2,56,25,98.9,2.6,Retained,0,
+E0283,Mid (4-12 yrs),7,Data / AI Engineer,Male,1,0,50,0,62,22,92.5,1.9,Retained,0,
+E0284,Senior (13+ yrs),19,Infrastructure Support,Female,0,0,5,0,38,33,90.3,2.6,Released (Skill Mismatch),3,0
+E0285,Senior (13+ yrs),13,Software Developer,Female,1,0,23,0,57,15,83.8,3.3,Retained,0,
+E0286,Mid (4-12 yrs),11,Cloud / DevOps Engineer,Male,1,1,56,0,93,9,99.2,4.7,Retained,0,
+E0287,Entry (0-3 yrs),2,Software Tester,Female,1,0,45,0,65,4,87.6,3.8,Retained,0,
+E0288,Senior (13+ yrs),23,Project / Program Manager,Female,1,0,19,1,41,35,91.0,4.1,Released (Skill Mismatch),1,0
+E0289,Senior (13+ yrs),14,Cloud / DevOps Engineer,Male,1,0,37,3,68,23,90.9,3.3,Retained,0,
+E0290,Senior (13+ yrs),15,Software Developer,Male,1,0,31,1,43,3,96.4,2.9,Retained,0,
+E0291,Entry (0-3 yrs),2,Infrastructure Support,Male,1,0,42,2,65,3,97.2,3.3,Voluntary Exit,0,
+E0292,Mid (4-12 yrs),12,Software Tester,Male,1,0,58,0,59,17,88.0,3.9,Retained,0,
+E0293,Mid (4-12 yrs),5,Business Analyst,Male,1,0,26,0,43,76,76.7,2.8,Retained,2,0
+E0294,Senior (13+ yrs),16,Software Developer,Male,1,0,21,0,67,6,96.0,2.8,Retained,0,
+E0295,Mid (4-12 yrs),10,Data / AI Engineer,Male,1,0,55,0,53,40,78.2,2.0,Retained,3,1
+E0296,Mid (4-12 yrs),11,Software Developer,Male,1,0,40,1,59,4,100.0,2.3,Retained,0,
+E0297,Mid (4-12 yrs),6,Data / AI Engineer,Female,1,0,31,1,72,15,99.0,2.8,Retained,0,
+E0298,Mid (4-12 yrs),8,Software Tester,Female,1,0,34,0,52,11,100.0,5.0,Retained,0,
+E0299,Mid (4-12 yrs),10,Infrastructure Support,Male,1,0,37,2,57,54,85.0,4.3,Retained,2,0
+E0300,Mid (4-12 yrs),8,Cloud / DevOps Engineer,Male,1,0,24,0,47,17,85.8,3.9,Retained,0,
